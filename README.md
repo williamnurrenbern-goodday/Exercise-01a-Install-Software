@@ -6,4 +6,4 @@ William Nurrenbern
 ## My github username is:
 williamnurrenbern-goodday
 
-## I have installed the software on my computer as part of the exercise
+## I have installed the software on my computer as a part of the exercise
